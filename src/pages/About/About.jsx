@@ -1,4 +1,4 @@
-import HeroImg from "@/assets/images/hero.jpg";
+import HeroImg from "@/assets/images/rj-danish-profile.png";
 import OlovaLogo from "@/assets/images/olova.png";
 
 export default function About() {
@@ -24,34 +24,25 @@ export default function About() {
 
             <div className="relative space-y-4">
               <p className="text-white">
-                Hello! I'm Nazmul Hossain, a passionate JavaScript developer
-                specializing in creating innovative web solutions and
-                user-friendly interfaces.{" "}
-                <span className="font-bold text-white">
+                Hello! I'm RJ Danish, I’m a Software Engineer specialized in Laravel, PHP, Python, and AI/ML building scalable solutions and intelligent systems that drive real-world impact.{" "}
+                {/* <span className="font-bold text-white">
                   As the creator of the OlovaJS UI Framework
-                </span>
+                </span> */}
                 , I'm dedicated to simplifying development workflows.
               </p>
               <p className="text-white">
-                My focus is on making web development faster, easier, and
-                accessible to all developers. Currently, I'm expanding into
-                backend development to grow as a full-stack developer and create
-                seamless, robust web applications.
+                As a tech content creator, YouTuber, and influencer, I simplify complex coding concepts and share practical insights with a global developer audience.
               </p>
 
               <div className="pt-6">
                 <blockquote className="border-l-4 border-gray-300 pl-4">
                   <p className="text-white">
-                    I'm a lifelong learner and innovator, driven by a desire to
-                    contribute to the developer community with new ideas and
-                    tools that deliver real value. As the creator of OlovaJS,
-                    I'm pushing the boundaries of JavaScript frameworks to
-                    empower developers worldwide.
+                   From backend development to AI-powered apps, I combine code and creativity to educate, inspire, and innovate in the world of software engineering.
                   </p>
 
                   <div className="mt-6 space-y-3">
                     <cite className="block font-medium text-white">
-                      Nazmul Hossain, Creator of
+                      RJ Danish, Creator of
                     </cite>
                     <div className="flex items-center gap-2">
                       <img
