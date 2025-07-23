@@ -54,28 +54,28 @@ const ExperienceCard = ({
 const ExperienceSection = () => {
   const experiences = [
     {
-      icon: Network,
-      title: "WordPress Developer",
-      company: "Fiverr",
-      period: "2019 - 2020",
+      icon: Code2,
+      title: "Senior Software Engineerr",
+      company: "Remote",
+      period: "2023 - Present",
       description:
-        "Worked on developing and customizing WordPress websites for clients globally.",
+        "Contributed to developing SaaS Application focus on Backend logics and 3rd party Integrations.",
     },
     {
       icon: Layers,
-      title: "Junior Frontend Developer",
-      company: "Sera Programmer",
-      period: "2021 - 2023",
+      title: "Content Creator",
+      company: "Self-Branded",
+      period: "2021 - Present",
       description:
-        "Assisted in building and optimizing user interfaces with a focus on responsive and interactive designs.",
+        "Produced short-form and long-form tech content focused on Laravel, PHP, Python, and AI/ML for a growing online audience.",
     },
     {
-      icon: Code2,
-      title: "JavaScript Developer",
-      company: "OlovJS (Sera Programmer)",
-      period: "2023 - Present",
+      icon: Network,
+      title: "YouTuber & Tech Educator",
+      company: "@rjdanishofficial",
+      period: "2019 - Present",
       description:
-        "Contributed to developing JavaScript libraries and enhancing framework functionalities.",
+        "Shared coding tutorials, dev tips, and tech insights to help beginners and professionals grow their skills.",
     },
   ];
 

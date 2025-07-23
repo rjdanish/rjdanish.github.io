@@ -33,14 +33,19 @@ export default function About() {
               <p className="text-white">
                 As a tech content creator, YouTuber, and influencer, I simplify complex coding concepts and share practical insights with a global developer audience.
               </p>
+               <p className="text-white">
+                  I aim to empower developers and businesses by bridging the gap between cutting-edge technology and real-world applications.
+                  </p>
 
               <div className="pt-6">
                 <blockquote className="border-l-4 border-gray-300 pl-4">
                   <p className="text-white">
                    From backend development to AI-powered apps, I combine code and creativity to educate, inspire, and innovate in the world of software engineering.
                   </p>
+                  
+                 
 
-                  <div className="mt-6 space-y-3">
+                  {/* <div className="mt-6 space-y-3">
                     <cite className="block font-medium text-white">
                       RJ Danish, Creator of
                     </cite>
@@ -54,7 +59,7 @@ export default function About() {
                       />
                       <span className="text-white">OlovaJS</span>
                     </div>
-                  </div>
+                  </div> */}
                 </blockquote>
               </div>
             </div>

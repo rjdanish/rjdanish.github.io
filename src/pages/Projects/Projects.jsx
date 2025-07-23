@@ -5,44 +5,44 @@ import PropTypes from "prop-types";
 
 const projects = [
   {
-    title: "Olova! A Lightweight JavaScript Library",
+    title: "Daresni",
     description:
-      "A lightweight JavaScript library for creating beautiful, responsive UI components.",
+      "Daresni “teach me” is a web based platform founded in 2018 that connects an increasing number of teachers with students for physical, private, home sessions in the Kingdom of Bahrain.",
     src: "rock.jpg",
-    link: "https://i.postimg.cc/DwgWTfP0/Annotation-2025-03-19-113338.png",
+    link: "https://i.postimg.cc/xT8hhfZK/image.png",
     color: "#5196fd",
-    githubLink: "https://github.com/olovajs/olova",
-    liveLink: "https://olova.js.org/",
+    githubLink: "https://github.com/rjdanish",
+    liveLink: "https://daresni.net/",
   },
   {
     title: "A sleek portfolio built with React and Tailwind CSS ",
     description:
       "A sleek portfolio built with React and Tailwind CSS to showcase your skills, projects, and experience in a modern design.",
     src: "tree.jpg",
-    link: "https://i.postimg.cc/J75CKyrs/Annotation-2025-04-01-203959.png",
+    link: "https://i.postimg.cc/g0HgrQ5z/image.png",
     color: "#8f89ff",
-    githubLink: "https://github.com/seraprogrammer/portfolio",
-    liveLink: "https://codervai.vercel.app",
+    githubLink: "https://github.com/rjdanish/rjdanish.github.io",
+    liveLink: "https://rjdanish.github.io",
   },
   {
-    title: "🚀 CodeWhisperer",
+    title: "SIOSS",
     description:
-      "🚀 CodeWhisperer A powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
+      "The Swedish International Organization of Sport Science (SiOSS) was established in Sweden in 2015. It is a specialized educational institution dedicated to the training and development of sports coaches across various disciplines, using the latest teaching methodologies and interactive technologies.",
     src: "water.jpg",
-    link: "https://i.postimg.cc/J4jPVFY0/Annotation-2025-04-01-204723.png",
+    link: "https://i.postimg.cc/QtWk1zYK/image.png",
     color: "#fff",
-    githubLink: "https://github.com/seraprogrammer/codewhisperer",
-    liveLink: "https://codewhisperer.vercel.app/",
+    githubLink: "https://github.com/rjdanish",
+    liveLink: "https://www.sioss.se/",
   },
   {
-    title: "CodeKori 🔥",
+    title: "Alt Med",
     description:
-      "CodeKori is a powerful online code editor built with React and Tailwind CSS. Featuring real-time code execution, syntax highlighting, multi-language support, and a sleek UI. Start coding instantly! 💻✨",
+      "Developed a comprehensive Hospital Management System with features like patient records, appointment scheduling, billing, and staff management. Streamlined hospital operations through a secure, user-friendly web application built with scalable backend architecture.",
     src: "house.jpg",
-    link: "https://i.postimg.cc/cHQr4fpR/Annotation-2025-04-01-205350.png",
+    link: "https://i.postimg.cc/zXL5WFqZ/image.png",
     color: "#ed649e",
-    githubLink: "https://github.com/seraprogrammer/CodeKori",
-    liveLink: "https://codekori.js.org",
+    githubLink: "https://github.com/rjdanish",
+    liveLink: "https://altmed.hospital/",
   },
 ];
 

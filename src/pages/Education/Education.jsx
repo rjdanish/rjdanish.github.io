@@ -15,25 +15,25 @@ const EducationSection = () => {
 
   const educationData = [
     {
-      degree: "Secondary School Certificate (SSC)",
-      school: "Natore Textile Institute",
+      degree: "Bachelor in Computer Science",
+      school: "C.U.S.T",
       mascot: "📘",
-      year: "2019-2021",
-      achievements: ["GPA: 4.89", "Subject: Science"],
-      skills: ["Mathematics", "Physics", "Chemistry", "Biology"],
+      year: "2016-2020",
+      achievements: ["GPA: 3.89", "Subject: Computer Science"],
+      skills: ["Algorithm", "Machine Learning", "Statistics", "Business"],
       description:
-        "Focused on core science subjects with emphasis on practical laboratory work and scientific research methodologies.",
+        "Bachelor’s degree in Computer Science with a strong foundation in programming, databases, and software engineering.",
     },
-    {
-      degree: "Higher Secondary Certificate (HSC)",
-      school: "Dottopara Model Degree College",
-      mascot: "📗",
-      year: "2021-2023",
-      achievements: ["GPA: 4.25", "Subject: Arts"],
-      skills: ["Literature", "Social Studies", "Economics", "History"],
-      description:
-        "Developed strong analytical and critical thinking skills through comprehensive study of humanities and social sciences.",
-    },
+    // {
+    //   degree: "Higher Secondary Certificate (HSC)",
+    //   school: "Dottopara Model Degree College",
+    //   mascot: "📗",
+    //   year: "2021-2023",
+    //   achievements: ["GPA: 4.25", "Subject: Arts"],
+    //   skills: ["Literature", "Social Studies", "Economics", "History"],
+    //   description:
+    //     "Developed strong analytical and critical thinking skills through comprehensive study of humanities and social sciences.",
+    // },
   ];
 
   const containerVariants = {
